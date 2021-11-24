@@ -52,6 +52,8 @@ public class TestSuite extends BaseTest {
             System.out.println(text.getText());
             System.out.println("***************************************");
             System.out.println("---------------------------------------");
+            System.out.println("&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&");
+            System.out.println("+++++++++++++++++++++++++++++++++++++++");
         }
 
 
