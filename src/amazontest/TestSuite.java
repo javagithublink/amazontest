@@ -51,6 +51,7 @@ public class TestSuite extends BaseTest {
         for(WebElement text:items){
             System.out.println(text.getText());
             System.out.println("***************************************");
+            System.out.println("---------------------------------------");
         }
 
 
